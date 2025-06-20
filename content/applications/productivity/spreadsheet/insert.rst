@@ -725,6 +725,18 @@ The :icon:`fa-sliders` :guilabel:`Configuration` tab includes the following sect
         :guilabel:`Filled radar`: fills the area within the radar chart's polygon, emphasizing the
         overall magnitude of values across different attributes for comparison.
 
+        .. image:: insert/chart-type-geo.png
+           :alt: Geo chart icon
+
+        :guilabel:`Geo`: visualizes data on a map using color variations to represent values or
+        categories across different geographical regions.
+
+        .. image:: insert/chart-type-funnel.png
+           :alt: Funnel chart icon
+
+        :guilabel:`Funnel`: visualizes data that progressively decreases over stages of a
+        process, with the option to display cumulative data for each stage.
+
      .. tab:: Other
 
         When creating a chart from spreadsheet data, rather than inserting one from a graph view,
@@ -742,18 +754,6 @@ The :icon:`fa-sliders` :guilabel:`Configuration` tab includes the following sect
         :guilabel:`Scorecard`: used to summarize key performance indicators (KPIs) in a compact
         format, such as total sales or conversion rates, and compare to a baseline or a previous
         value.
-
-        .. image:: insert/chart-type-geo.png
-           :alt: Geo chart icon
-
-        :guilabel:`Geo`: visualizes data on a map using color variations to represent values or
-        categories across different geographical regions.
-
-        .. image:: insert/chart-type-funnel.png
-           :alt: Geo chart icon
-
-        :guilabel:`Funnel`: visualizes data that progressively decreases over stages of a
-        process, with the option to display cumulative data for each stage.
 
 - :guilabel:`Domain`: the rules used to determine which records are shown. Click :ref:`Edit domain
   <search/custom-filters>` to add or edit rules.
